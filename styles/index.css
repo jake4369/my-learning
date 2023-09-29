@@ -1,0 +1,289 @@
+@import url("https://fonts.googleapis.com/css2?family=Butterfly+Kids&family=Martian+Mono:wght@400;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: "Martian Mono", "Courier New", Courier, monospace;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+input,
+button,
+* {
+  outline: none !important;
+  -webkit-tap-highlight-color: transparent; /* Remove tap highlight on iOS */
+  -webkit-touch-callout: none; /* Disable callout on iOS */
+  -webkit-user-select: none; /* Disable selection on iOS */
+  -moz-user-select: none; /* Disable selection on Firefox */
+  -ms-user-select: none; /* Disable selection on IE/Edge */
+  user-select: none;
+}
+
+/* ========================================
+ HOMEPAGE
+ ======================================== */
+
+/* ==========
+ HEADER
+ ========== */
+
+header {
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+header img.logo {
+  width: 3.125rem;
+  height: auto;
+  margin: 0 auto;
+}
+
+/* ==========
+ HERO SECTION
+ ========== */
+.hero-section {
+  text-align: center;
+  padding: 0 6.4%;
+  margin-bottom: 5rem;
+}
+
+.hero-section__heading-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-section__heading-container h1 {
+  font-family: "Butterfly Kids";
+  font-size: 3.5rem;
+}
+
+.hero-section__heading-container img.img__waving {
+  width: 5rem;
+  height: auto;
+  margin: 1rem auto;
+}
+
+.hero-section p {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+/* ==========
+ SUBJECT LINK SECTION
+ ========== */
+.subject-section {
+  text-align: center;
+  padding: 0 6.4%;
+}
+
+.subject-section h2 {
+  margin-bottom: 2rem;
+}
+
+.subject-links__container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.subject-link {
+  display: block;
+  max-width: 350px;
+}
+
+.subject-img {
+  width: 100%;
+  height: auto;
+  border: 4px solid;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.subject-img__english {
+  border-color: rgb(48, 111, 216);
+}
+
+/* ========================================
+ ENGLISH SUBJECTS HOMEPAGE
+ ======================================== */
+.english-subjects__homepage {
+  padding: 0 6.4%;
+  text-align: center;
+}
+
+.english-subjects__homepage h1 {
+  font-family: "Butterfly Kids";
+  font-size: 3.5rem;
+  margin-bottom: 5rem;
+}
+
+.english-subjects__homepage h2 {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.subject-img__phonics {
+  border-color: rgb(243, 186, 70);
+}
+
+/* ========================================
+ PHONICS HOMEPAGE
+ ======================================== */
+.phonics-homepage {
+  text-align: center;
+  padding: 0 6.4%;
+}
+
+.phonics-homepage h1 {
+  font-family: "Butterfly Kids";
+  font-size: 3.5rem;
+  margin-bottom: 2rem;
+}
+
+.phonics-homepage__hero-img {
+  width: 9.375rem;
+  height: auto;
+  margin: 0 auto 5rem auto;
+}
+
+.phonic-set__container {
+  margin-bottom: 4rem;
+}
+
+.phonics__set-header {
+  font-size: 1.25rem;
+  width: fit-content;
+  padding: 1rem;
+  border: 0.125rem solid;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: white;
+  border-radius: 0.5rem;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  margin-bottom: 2rem;
+}
+
+.letter-btns__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem 0;
+}
+
+.letter-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  width: 4.5rem;
+  height: 4.5rem;
+  color: #fff;
+  border-radius: 0.5rem;
+  border: 0.125rem solid #fff;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* ========================================
+ LETTER PAGE
+ ======================================== */
+.letter-page {
+  text-align: center;
+  padding: 0 6.4%;
+}
+
+.letter-page h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 5rem;
+  height: 5rem;
+  font-size: 3rem;
+  color: #fff;
+  border-radius: 8px;
+  border: 0.125rem solid #fff;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  margin: 0 auto 2rem auto;
+}
+
+.story-section {
+  margin-bottom: 4rem;
+}
+
+.story-section h2 {
+  font-family: "Butterfly Kids";
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.story-img {
+  margin: 0 auto 1rem auto;
+  width: 60%;
+  height: auto;
+}
+
+.story-section p {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+/* ===== FLASHCARD ===== */
+.flashcard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border-radius: 0.5rem;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  padding: 1.5rem;
+  margin-bottom: 4rem;
+  border: 0.25rem solid;
+}
+
+.flashcard__letter {
+  font-size: 5rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+}
+
+.flashcard-img {
+  margin: 0 auto 2rem auto;
+  width: 50%;
+  min-height: 8.75rem;
+  max-width: 8.75rem;
+  height: auto;
+}
+
+.flashcard .audio-btn {
+  display: block;
+  font-size: 1.25rem;
+  padding: 1rem 3rem;
+  border: 0.125rem solid;
+  text-transform: uppercase;
+  letter-spacing: 0.0625rem;
+  font-weight: 700;
+  color: white;
+  border-radius: 0.5rem;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  margin: 0 auto;
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "s": {
+      "color": "#CDB4DB",
+      "story": "It is a sunny day. A boy takes his dog for a walk. The boy throws a stick and the dog runs after it. The dog sniffs around in the grass and starts barking. A large, spotty snake is sitting up and hissing, /sssssss/. The boy grabs the dog and the snake slowly slithers away.",
+      "storyImgUrl": "/assets/images/english/phonics/story/s.png"
+    },
+    "a": {
+      "color": "#FFC8DD",
+      "story": "A family are going on a picnic. The children help to pack some apples, sandwiches and a blackberry pie. At the picnic, the children feel something tickling them. Some ants are crawling up their arms. They jump up, shouting, /a, a, a/ ants!",
+      "storyImgUrl": "/assets/images/english/phonics/story/a.png"
+    },
+    "t": {
+      "color": "#FFAFCC",
+      "story": "Some children go to a tennis match. Each time the racket hits the ball, it makes a /t/ noise. The game is very exciting. The people in the crowd turn their heads from side to side, watching the ball. The children go home and play tennis too, /t, t, t, t/.",
+      "storyImgUrl": "/assets/images/english/phonics/story/t.png"
+    },
+    "p": {
+      "color": "#BDE0FE",
+      "story": "A boy is having a birthday party. He opens his presents and plays some party games. Then he puffs out the candles on his cake. They are trick candles and keep relighting. Everyone tries to puff out the candles, going, /p, p, p, p/.",
+      "storyImgUrl": "/assets/images/english/phonics/story/p.png"
+    }
+  }
+]
