@@ -8,9 +8,11 @@
 
 html {
   font-size: 16px;
+  overflow-x: hidden;
 }
 
 body {
+  overflow-x: hidden;
   font-family: "Martian Mono", "Courier New", Courier, monospace;
 }
 
@@ -335,15 +337,7 @@ header img.logo {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-}
-
-canvas {
-  background-size: cover;
-  background-position: center;
-  background-image: url("./../public/assets/images/english/phonics/tracing/a.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-size: cover;
+  margin-bottom: 4rem;
 }
 
 .canvas img {
