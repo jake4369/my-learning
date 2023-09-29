@@ -349,3 +349,7 @@ header img.logo {
   height: auto;
   z-index: -1;
 }
+
+.touch-scroll-lock {
+  touch-action: none;
+}

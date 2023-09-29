@@ -123,6 +123,7 @@ const TracingComponent = ({ letter, width, height, color }) => {
         onTouchStart={startDrawing}
         onTouchEnd={endDrawing}
         onTouchMove={draw}
+        className="touch-scroll-lock"
       ></canvas>
       <Image
         src={`/assets/images/english/phonics/tracing/${letter}.png`}
