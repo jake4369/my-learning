@@ -349,6 +349,7 @@ header img.logo {
   transform: translate(-50%, -50%);
   width: 100px;
   height: auto;
+  max-width: 70%;
   z-index: -1;
 }
 
