@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 const Flashcard = ({ letter, color }) => {
   let audio = new Audio(`/assets/sounds/set-1/${letter}.mp3`);
   const playAudio = () => {
