@@ -1,5 +1,5 @@
 const Flashcard = ({ letter, color }) => {
-  let audio = new Audio(`/assets/sounds/set-1/${letter}.mp3`);
+  let audio = new Audio(`/assets/sounds/${letter}.mp3`);
   const playAudio = () => {
     audio.play();
   };
