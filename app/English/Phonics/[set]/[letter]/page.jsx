@@ -7,10 +7,10 @@ import letterData from "./../../../../../data/letters.json";
 
 import Flashcard from "@components/Phonics/Flashcards/Flashcard";
 
+import TracingComponent from "@components/TracingComponent";
+
 const page = () => {
   const { letter } = useParams();
-
-  // FLASHCARD
 
   return (
     <div className="letter-page">
@@ -39,6 +39,13 @@ const page = () => {
       </section>
 
       <Flashcard letter={letter} color={letterData[0][letter].color} />
+
+      <TracingComponent
+        letter={letter}
+        width={400}
+        height={400}
+        color={letterData[0][letter].color}
+      />
     </div>
   );
 };
