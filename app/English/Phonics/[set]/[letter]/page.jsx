@@ -12,12 +12,14 @@ import TracingComponent from "@components/TracingComponent";
 const page = () => {
   const { letter } = useParams();
 
+  const color = letterData[0][letter].color;
+
   return (
     <div className="letter-page">
       <h1
         className="letter-page__letter"
         style={{
-          backgroundColor: letterData[0][letter].color,
+          backgroundColor: color,
         }}
       >
         {letter}
@@ -38,13 +40,13 @@ const page = () => {
         <p>{letterData[0][letter].story}</p>
       </section>
 
-      <Flashcard letter={letter} color={letterData[0][letter].color} />
+      <Flashcard letter={letter} color={color} />
 
       <TracingComponent
         letter={letter}
         width={400}
         height={400}
-        color={letterData[0][letter].color}
+        color={color}
       />
     </div>
   );
