@@ -85,7 +85,8 @@ const TracingComponent = ({ letter, width, height, color }) => {
     context.strokeStyle = color;
   }, [letter, width, height]);
 
-  const startDrawing = () => {
+  const startDrawing = (e) => {
+    e.preventDefault();
     setIsDrawing(true);
   };
 
