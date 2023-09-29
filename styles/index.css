@@ -338,6 +338,8 @@ header img.logo {
   background-size: cover;
   position: relative;
   margin-bottom: 4rem;
+  padding-bottom: 0.5rem;
+  border: 0.25rem solid;
 }
 
 .canvas img {
@@ -352,4 +354,18 @@ header img.logo {
 
 .touch-scroll-lock {
   touch-action: none;
+}
+
+.clear-canvas__btn {
+  display: block;
+  font-size: 1.25rem;
+  padding: 1rem 3rem;
+  border: 0.125rem solid;
+  text-transform: uppercase;
+  letter-spacing: 0.0625rem;
+  font-weight: 700;
+  color: white;
+  border-radius: 0.5rem;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  margin: 0 auto;
 }

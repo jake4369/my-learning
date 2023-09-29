@@ -117,7 +117,12 @@ const TracingComponent = ({ letter, width, height, color }) => {
   };
 
   return (
-    <div className="canvas">
+    <div
+      className="canvas"
+      style={{
+        borderColor: color,
+      }}
+    >
       <canvas
         ref={canvasRef}
         onTouchStart={startDrawing}
@@ -131,7 +136,15 @@ const TracingComponent = ({ letter, width, height, color }) => {
         width={100}
         height={100}
       />
-      <button onClick={clearCanvas}>Clear Canvas</button>
+      <button
+        onClick={clearCanvas}
+        className="clear-canvas__btn"
+        style={{
+          backgroundColor: color,
+        }}
+      >
+        Clear Canvas
+      </button>
     </div>
   );
 };
