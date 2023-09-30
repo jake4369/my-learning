@@ -397,3 +397,37 @@ header img.logo {
   width: 50%;
   height: auto;
 }
+
+/* ==========
+ PHONICS FLASHCARD SECTION
+ ========== */
+.flashcard-section {
+  margin-bottom: 4rem;
+}
+
+.flashcard-section h2 {
+  margin-bottom: 2rem;
+}
+
+.flashcard-container {
+  border-radius: 0.5rem;
+  border: 0.25rem solid;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  padding: 2rem;
+}
+
+.flashcard-text {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.flashcard-btn {
+  display: inline-block;
+  font-size: 1.5rem;
+  width: 45%;
+  color: #fff;
+  border-radius: 0.5rem;
+  border: 0.125rem solid #fff;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  padding: 0.5rem 0;
+}
