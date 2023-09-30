@@ -3,26 +3,50 @@
     "s": {
       "color": "#CDB4DB",
       "story": "It is a sunny day. A boy takes his dog for a walk. The boy throws a stick and the dog runs after it. The dog sniffs around in the grass and starts barking. A large, spotty snake is sitting up and hissing, /sssssss/. The boy grabs the dog and the snake slowly slithers away.",
-      "storyImgUrl": "/assets/images/english/phonics/story/s.png"
+      "storyImgUrl": "/assets/images/english/phonics/story/s.png",
+      "soundingImages": [
+        "/assets/images/english/phonics/sounding/sun.png",
+        "/assets/images/english/phonics/sounding/snail.png",
+        "/assets/images/english/phonics/sounding/spider.png",
+        "/assets/images/english/phonics/sounding/drum.png"
+      ]
     },
     "a": {
       "color": "#FFC8DD",
       "story": "A family are going on a picnic. The children help to pack some apples, sandwiches and a blackberry pie. At the picnic, the children feel something tickling them. Some ants are crawling up their arms. They jump up, shouting, /a, a, a/ ants!",
-      "storyImgUrl": "/assets/images/english/phonics/story/a.png"
+      "storyImgUrl": "/assets/images/english/phonics/story/a.png",
+      "soundingImages": [
+        "/assets/images/english/phonics/sounding/spider.png",
+        "/assets/images/english/phonics/sounding/arrow.png",
+        "/assets/images/english/phonics/sounding/ant.png",
+        "/assets/images/english/phonics/sounding/apple.png"
+      ]
     },
     "t": {
       "color": "#FFAFCC",
       "story": "Some children go to a tennis match. Each time the racket hits the ball, it makes a /t/ noise. The game is very exciting. The people in the crowd turn their heads from side to side, watching the ball. The children go home and play tennis too, /t, t, t, t/.",
-      "storyImgUrl": "/assets/images/english/phonics/story/t.png"
+      "storyImgUrl": "/assets/images/english/phonics/story/t.png",
+      "soundingImages": [
+        "/assets/images/english/phonics/sounding/tennis.png",
+        "/assets/images/english/phonics/sounding/sun.png",
+        "/assets/images/english/phonics/sounding/tent.png",
+        "/assets/images/english/phonics/sounding/tiger.png"
+      ]
     },
     "p": {
       "color": "#BDE0FE",
       "story": "A boy is having a birthday party. He opens his presents and plays some party games. Then he puffs out the candles on his cake. They are trick candles and keep relighting. Everyone tries to puff out the candles, going, /p, p, p, p/.",
-      "storyImgUrl": "/assets/images/english/phonics/story/p.png"
+      "storyImgUrl": "/assets/images/english/phonics/story/p.png",
+      "soundingImages": [
+        "/assets/images/english/phonics/sounding/pie.png",
+        "/assets/images/english/phonics/sounding/parrot.png",
+        "/assets/images/english/phonics/sounding/pencil.png",
+        "/assets/images/english/phonics/sounding/tiger.png"
+      ]
     },
     "i": {
       "color": "#CDB4DB",
-      "story": "Inky the curious iguana invited his insect friends, Iris the ant and Ivy the bee, to a picnic. They all enjoyed vanilla ice cream that was as cold as an /i, i/ igloo. Inky realized that the letter 'i' was as inviting as their picnic, and they had an incredible day together!",
+      "story": "Inky the curious iguana invited his insect friends, Iris the ant and Ivy the bee, to a picnic. They all enjoyed vanilla ice cream that was as cold as an /i, i/ igloo. Inky grinned, knowing that their shared love for things like ice cream and insects brought lots of fun to their day!",
       "storyImgUrl": "/assets/images/english/phonics/story/i.png"
     },
     "n": {
