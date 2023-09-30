@@ -21,6 +21,14 @@
         "Spoon",
         "Shirt",
         "Ship"
+      ],
+      "songImg": "/assets/songs/images/s.png",
+      "song": "/assets/songs/s.mp3",
+      "songLyrics": [
+        "The snake is in the grass,",
+        "The snake is in the grass.",
+        "/sss/! /sss/!",
+        "The snake is in the grass."
       ]
     },
     "a": {
@@ -44,6 +52,14 @@
         "Avocado",
         "Alarm",
         "Angry"
+      ],
+      "songImg": "/assets/songs/images/a.png",
+      "song": "/assets/songs/a.mp3",
+      "songLyrics": [
+        "/a/ - /a/! Ants on my arm.",
+        "/a/ - /a/! Ants on my arm.",
+        "/a/ - /a/! Ants on my arm.",
+        "They're causing me alarm."
       ]
     },
     "t": {
@@ -67,6 +83,15 @@
         "Teacher",
         "Table",
         "Tambourine"
+      ],
+      "songImg": "/assets/songs/images/t.png",
+      "song": "/assets/songs/t.mp3",
+      "songLyrics": [
+        "When I watch the tennis game,",
+        "/t/ - /t/ - /t/,",
+        "/t/ - /t/ - /t/...",
+        "...when I watch the tennis game,",
+        "my head goes back and forth."
       ]
     },
     "p": {
@@ -90,6 +115,15 @@
         "Playground",
         "Pillow",
         "Potato"
+      ],
+      "songImg": "/assets/songs/images/p.png",
+      "song": "/assets/songs/p.mp3",
+      "songLyrics": [
+        "Puff out the candles on the pink pig cake.",
+        "/p/ - /p/ - /p/,",
+        "/p/ - /p/ - /p/.",
+        "Puff out the candles on the pink pig cake.",
+        "Puff! Puff! Puff!"
       ]
     },
     "i": {
