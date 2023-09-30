@@ -9,6 +9,18 @@
         "/assets/images/english/phonics/sounding/snail.png",
         "/assets/images/english/phonics/sounding/spider.png",
         "/assets/images/english/phonics/sounding/drum.png"
+      ],
+      "flashcardWords": [
+        "Sun",
+        "Sand",
+        "Sea",
+        "Snake",
+        "Snow",
+        "Shell",
+        "Sock",
+        "Spoon",
+        "Shirt",
+        "Ship"
       ]
     },
     "a": {
@@ -20,6 +32,18 @@
         "/assets/images/english/phonics/sounding/arrow.png",
         "/assets/images/english/phonics/sounding/ant.png",
         "/assets/images/english/phonics/sounding/apple.png"
+      ],
+      "flashcardWords": [
+        "Apple",
+        "Ant",
+        "Arrow",
+        "Ambulance",
+        "Animals",
+        "Alphabet",
+        "Astronaut",
+        "Avocado",
+        "Alarm",
+        "Angry"
       ]
     },
     "t": {
@@ -31,6 +55,18 @@
         "/assets/images/english/phonics/sounding/sun.png",
         "/assets/images/english/phonics/sounding/tent.png",
         "/assets/images/english/phonics/sounding/tiger.png"
+      ],
+      "flashcardWords": [
+        "Tiger",
+        "Turtle",
+        "Train",
+        "Tree",
+        "Teddy",
+        "Toothbrush",
+        "Tomato",
+        "Teacher",
+        "Table",
+        "Tambourine"
       ]
     },
     "p": {
@@ -42,6 +78,18 @@
         "/assets/images/english/phonics/sounding/parrot.png",
         "/assets/images/english/phonics/sounding/pencil.png",
         "/assets/images/english/phonics/sounding/tiger.png"
+      ],
+      "flashcardWords": [
+        "Penguin",
+        "Pumpkin",
+        "Pencil",
+        "Pizza",
+        "Puppy",
+        "Pig",
+        "Princess",
+        "Playground",
+        "Pillow",
+        "Potato"
       ]
     },
     "i": {
@@ -53,6 +101,16 @@
         "/assets/images/english/phonics/sounding/sun.png",
         "/assets/images/english/phonics/sounding/kid.png",
         "/assets/images/english/phonics/sounding/pig.png"
+      ],
+      "flashcardWords": [
+        "Igloo",
+        "Insect",
+        "Iguana",
+        "Ink",
+        "Itch",
+        "Instument",
+        "Invitation",
+        "Ill"
       ]
     },
     "n": {
@@ -64,6 +122,18 @@
         "/assets/images/english/phonics/sounding/apple.png",
         "/assets/images/english/phonics/sounding/net.png",
         "/assets/images/english/phonics/sounding/nest.png"
+      ],
+      "flashcardWords": [
+        "Nest",
+        "Noodle",
+        "Nose",
+        "Nut",
+        "Nurse",
+        "Necklace",
+        "Numbers",
+        "Night",
+        "Nail",
+        "Nugget"
       ]
     },
     "m": {
@@ -75,6 +145,18 @@
         "/assets/images/english/phonics/sounding/milk.png",
         "/assets/images/english/phonics/sounding/parrot.png",
         "/assets/images/english/phonics/sounding/mouse.png"
+      ],
+      "flashcardWords": [
+        "Moon",
+        "Monkey",
+        "Mouse",
+        "Marshmallow",
+        "Mermaid",
+        "Music",
+        "Milk",
+        "Movie",
+        "Magic",
+        "Muffin"
       ]
     },
     "d": {
@@ -86,6 +168,18 @@
         "/assets/images/english/phonics/sounding/pig.png",
         "/assets/images/english/phonics/sounding/duck.png",
         "/assets/images/english/phonics/sounding/dinosaur.png"
+      ],
+      "flashcardWords": [
+        "Dog",
+        "Doll",
+        "Door",
+        "Drum",
+        "Daddy",
+        "Doctor",
+        "Dream",
+        "Dolphin",
+        "Donut",
+        "Dinosaur"
       ]
     }
   }
