@@ -8,6 +8,7 @@ import letterData from "./../../../../../data/letters.json";
 import Soundcard from "@components/Phonics/Soundcard/Soundcard";
 import TracingComponent from "@components/Phonics/TracingComponent";
 import SoundingSection from "@components/Phonics/Sounding/SoundingSection";
+import FlashcardSection from "@components/Shared/Flashcards/FlashcardSection";
 
 const page = () => {
   const { letter } = useParams();
@@ -52,6 +53,11 @@ const page = () => {
       <SoundingSection
         letter={letter}
         arr={letterData[0][letter].soundingImages}
+      />
+
+      <FlashcardSection
+        arr={letterData[0][letter].flashcardWords}
+        color={color}
       />
     </div>
   );
