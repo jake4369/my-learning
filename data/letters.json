@@ -47,22 +47,46 @@
     "i": {
       "color": "#CDB4DB",
       "story": "Inky the curious iguana invited his insect friends, Iris the ant and Ivy the bee, to a picnic. They all enjoyed vanilla ice cream that was as cold as an /i, i/ igloo. Inky grinned, knowing that their shared love for things like ice cream and insects brought lots of fun to their day!",
-      "storyImgUrl": "/assets/images/english/phonics/story/i.png"
+      "storyImgUrl": "/assets/images/english/phonics/story/i.png",
+      "soundingImages": [
+        "/assets/images/english/phonics/sounding/igloo.png",
+        "/assets/images/english/phonics/sounding/sun.png",
+        "/assets/images/english/phonics/sounding/kid.png",
+        "/assets/images/english/phonics/sounding/pig.png"
+      ]
     },
     "n": {
       "color": "#FFC8DD",
       "story": "Nina, the bunny, had a neighbor, Ned, the woodpecker. Every morning, his 'knock, knock, knock echoed through their woodland home, blending with the peaceful sounds of nature. It greeted everyone, including Nancy the squirrel and Benny the bear, making the forest come alive with its unique rhythm.",
-      "storyImgUrl": "/assets/images/english/phonics/story/n.png"
+      "storyImgUrl": "/assets/images/english/phonics/story/n.png",
+      "soundingImages": [
+        "/assets/images/english/phonics/sounding/gnome.png",
+        "/assets/images/english/phonics/sounding/apple.png",
+        "/assets/images/english/phonics/sounding/net.png",
+        "/assets/images/english/phonics/sounding/nest.png"
+      ]
     },
     "m": {
       "color": "#FFAFCC",
       "story": "Mia, the little mouse, lived near a lush garden. Mia loved cheese. '/m, m, m, m/, This is delicious,' she said as she munched. Benny the butterfly and Lenny the lizard couldn't resist, joining Mia's cheese feast. Together, they shared stories and laughter, adding to the warmth of the garden's serene ambiance.",
-      "storyImgUrl": "/assets/images/english/phonics/story/m.png"
+      "storyImgUrl": "/assets/images/english/phonics/story/m.png",
+      "soundingImages": [
+        "/assets/images/english/phonics/sounding/moon.png",
+        "/assets/images/english/phonics/sounding/milk.png",
+        "/assets/images/english/phonics/sounding/parrot.png",
+        "/assets/images/english/phonics/sounding/mouse.png"
+      ]
     },
     "d": {
       "color": "#BDE0FE",
       "story": "Danny, a lively boy, had a drum. /d, d, d, d,/ he drummed happily. His dad, thrilled, joined with his guitar. Together, they made joyful rhythms, filling their home with the delightful sound of music.",
-      "storyImgUrl": "/assets/images/english/phonics/story/d.png"
+      "storyImgUrl": "/assets/images/english/phonics/story/d.png",
+      "soundingImages": [
+        "/assets/images/english/phonics/sounding/dog.png",
+        "/assets/images/english/phonics/sounding/pig.png",
+        "/assets/images/english/phonics/sounding/duck.png",
+        "/assets/images/english/phonics/sounding/dinosaur.png"
+      ]
     }
   }
 ]
