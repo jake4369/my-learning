@@ -5,9 +5,9 @@ import Image from "next/image";
 
 import letterData from "./../../../../../data/letters.json";
 
-import Flashcard from "@components/Phonics/Flashcards/Flashcard";
-
-import TracingComponent from "@components/TracingComponent";
+import Soundcard from "@components/Phonics/Soundcard/Soundcard";
+import TracingComponent from "@components/Phonics/TracingComponent";
+import SoundingSection from "@components/Phonics/Sounding/SoundingSection";
 
 const page = () => {
   const { letter } = useParams();
@@ -40,13 +40,18 @@ const page = () => {
         <p>{letterData[0][letter].story}</p>
       </section>
 
-      <Flashcard letter={letter} color={color} />
+      <Soundcard letter={letter} color={color} />
 
       <TracingComponent
         letter={letter}
         width={400}
         height={400}
         color={color}
+      />
+
+      <SoundingSection
+        letter={letter}
+        arr={letterData[0][letter].soundingImages}
       />
     </div>
   );
